@@ -1,6 +1,7 @@
 # Robust-Solving
 Python implementation of [Robust Solving of Optical Motion Capture Data by Denoising [Holden et al. 2018]](https://dl.acm.org/doi/10.1145/3197517.3201302) <br />
-Implemented in CUDA 10.0, PyTorch 1.2.0
+Implemented in CUDA 10.0, PyTorch 1.2.0 <br />
+Rendering code implemented by @ltepenguin
 
 ## Training
 Before training, precompute values that are frequently used
